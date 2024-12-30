@@ -25,10 +25,13 @@ Sigue estos pasos para configurar y ejecutar el proyecto localmente:
    git clone https://github.com/tuusuario/nombre-del-repositorio.git
 
 2. Navega al directorio del proyecto:
+  ```bash
     cd nombre-del-repositorio
 
-3. Instala las dependencias necesarias:
+4. Instala las dependencias necesarias:
+   ```bash
       npm install
    
 5. Inicia el servidor de desarrollo:
+   ```bash
      npm start
